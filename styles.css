@@ -20,3 +20,8 @@ body{
     vertical-align: middle;
     height: 1em;
 }
+a:hover, a:any-link{
+    text-decoration: none;
+    font-style: italic;
+    color: inherit;
+}
