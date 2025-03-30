@@ -19,4 +19,10 @@ body{
 .inline-icon{
     vertical-align: middle;
     height: 1em;
+    fill: white;
+}
+a:hover, a:any-link{
+    text-decoration: none;
+    font-style: italic;
+    color: inherit;
 }
