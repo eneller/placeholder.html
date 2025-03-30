@@ -1,0 +1,22 @@
+:root{
+    --bg-gradient: radial-gradient(circle at center, #144250, #0c2931);
+    --fg:#FFF;
+}
+html{
+    font-family: sans-serif;
+}
+body{
+    background: var(--bg-gradient);
+    overflow-x: hidden;
+    margin:.5em auto;
+    max-width:min(100%,800px);
+    line-height:1.4;
+    font-size:18px;
+    color:var(--fg);
+    padding:0 .2em;
+    text-align: center;
+}
+.inline-icon{
+    vertical-align: middle;
+    height: 1em;
+}
