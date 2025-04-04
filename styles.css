@@ -30,3 +30,6 @@ a:hover, a:any-link{
     font-style: italic;
     color: inherit;
 }
+h1, h2, h3{
+    line-height: .8;
+}
