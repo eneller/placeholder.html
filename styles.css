@@ -23,6 +23,7 @@ body{
     vertical-align: middle;
     height: 1em;
     fill: var(--fg);
+    stroke: var(--fg);
 }
 a:hover, a:any-link{
     text-decoration: none;
